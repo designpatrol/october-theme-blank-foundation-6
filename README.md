@@ -15,7 +15,7 @@ Replace `<theme-dir>` with whatever fits the site you're building.
 Where `<name>` is whatever you specified in `theme:install`.
 
 
-# Compiling the SCSS
+## Compiling the SCSS
 
 The theme comes with the basic pre-compiled Foundation CSS but you can customise as just like you would with a normal Foundation project. 
 
